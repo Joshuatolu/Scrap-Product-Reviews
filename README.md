@@ -36,11 +36,11 @@ web-scraping-project/
 │
 ├── Reviews/                         # Contains scraped data in CSV format
 │   ├── Jumia/
-│   │   └──Ace_Laptop_reviews.csv    # Sample output from Jumia
+│   │   └──Ace_Laptop_reviews.csv    # Sample output from [Jumia NG](https://jumia.com.ng/)
 │   ├── Ebay
-│   │   └──Laptop_Stand_reviews.csv  # Sample output from another website
+│   │   └──Laptop_Stand_reviews.csv  # Sample output from [ebay.com](https://ebay.com/)
 │   └── Shopify
-│       └──MercKeyboard_reviews.csv  # Sample output from a third website
+│       └──MercKeyboard_reviews.csv  # Sample output from [Shopify](https://shop.app/)
 │
 ├── Driver/                          # Contains the EdgeDriver executable
 │   └── msedgedriver.exe             # EdgeDriver for Selenium
