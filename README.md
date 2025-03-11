@@ -11,7 +11,10 @@ The project includes scripts for scraping reviews from multiple websites, each w
 
 + Data Extraction: Extracts reviewer names, comments, dates, and ratings.
 
++  Data Transformation: The extracted data is transformed to ensure conformity and standardization across all scrapped data from the different eccommerce websites. 
+
 + Data Storage: The scrapped data is saved into CSV files for further analysis.
+
 
 
 ## Tools Used
